@@ -48,7 +48,7 @@ Activities:
 
 - Capture test coverage, runtime metrics, and regression failures. 
 
-- Module Release Framework (MRF): 
+3. Module Release Framework (MRF): 
 
 - Implement semantic versioning with Git tag-based triggers. 
 
@@ -62,7 +62,7 @@ Activities:
 
 
 
-3. Module Support Framework (MSF): 
+4. Module Support Framework (MSF): 
 
 - Define issue tracking and triage workflows. 
 
